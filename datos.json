@@ -1,0 +1,72 @@
+[
+    {
+        "nombre": "coleccion SYNTH",
+        "fecha": "2023",
+        "signo": "Indumentaria",
+        "foto": "https://fastly.picsum.photos/id/768/200/300.jpg?grayscale&hmac=u3P89BxC0Ms0ZFCm-v3pFvRCz0hnWdhqBT7s_PXn--k",
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "coleccion Desvanecidos",
+        "fecha": "2023",
+        "signo": "Indumentaria",
+        "foto": "https://fastly.picsum.photos/id/395/200/300.jpg?grayscale&hmac=U1-sdPh3iWdSrEjhTBvZkuTv7anl6xtV7F3615_qZ5A",
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "revista de moda",
+        "fecha": "2023",
+        "signo": "diseño editorial",
+        "foto": "https://fastly.picsum.photos/id/336/200/300.jpg?grayscale&hmac=WKsvN8Xr2pZFayOhrzCYpW02_vQwBiZ6P88ZOzjX6qI",
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "fanzine ilustrado",
+        "fecha": "2022",
+        "signo": "ilustracion",
+        "foto": "https://fastly.picsum.photos/id/600/200/300.jpg?grayscale&hmac=vfTm1UnJGVudzzXiwKNFuj3F50RCYmMPckL1bPOqhd8",
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "fanzine interactivo",
+        "fecha": "2022",
+        "signo": "diseño editorial",
+        "foto": "https://fastly.picsum.photos/id/664/200/300.jpg?grayscale&hmac=5461xvNxvOeLviXghZZZMUPdhIqR-ft1lyV8xWZAaGI",
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "odios colegiales",
+        "fecha": "2023",
+        "signo": "indumentaria",
+        "foto": "https://fastly.picsum.photos/id/380/200/300.jpg?grayscale&hmac=GJWYvpHCRRldAJjla1i5ljlrmqB0X10iTISyPqHtQNA",
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "trabajo femenino en chile",
+        "fecha": "2023",
+        "signo": "diseño grafico e informacion",
+        "foto": "https://fastly.picsum.photos/id/215/200/300.jpg?grayscale&hmac=qet2qfO5zCUemSZDzi2NMivjzaj1zP-ODb1YKHaqo78",
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "conoce tu credencial",
+        "fecha": "2023",
+        "signo": "diseño grafico e informacion",
+        "foto": "https://fastly.picsum.photos/id/1084/200/300.jpg?grayscale&hmac=D-2AGwiKwZxye7lp8STEIWWvnZQqWKjwE7ERgZNR6Zs",
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "fanzine compostar tu basura",
+        "fecha": "2022",
+        "signo": "diseño editorial",
+        "foto": "https://fastly.picsum.photos/id/441/200/300.jpg?grayscale&hmac=ek5Owbn9uUAlihz_AsJAeBpqtp0sLFgKP3hLJPaY6lk",
+        "github": "https://github.com/benjamin-rdz"
+    },
+    {
+        "nombre": "el satiro",
+        "fecha": "2022",
+        "signo": "ilustracion",
+        "foto": "https://fastly.picsum.photos/id/605/200/300.jpg?grayscale&hmac=wGEOUPNLlOfB687OaB1-uHytBd-TL_iGJRykAae7K5Y",
+        "github": "https://github.com/benjamin-rdz"
+    }
+]
